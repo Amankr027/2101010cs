@@ -5,7 +5,7 @@ const testReg = require("./routes/Register");
 const testAuth = require("./routes/Auth");
 
 
-const productRoute = require("./routes/product");
+// const productRoute = require("./routes/product");
 const cors = require("cors");
 
 
